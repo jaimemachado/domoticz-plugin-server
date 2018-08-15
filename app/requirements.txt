@@ -1,0 +1,5 @@
+flask
+pyaes
+samsungctl
+wakeonlan
+python-miio
